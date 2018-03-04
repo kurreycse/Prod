@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <consumerKey>3MVG9d8..z.hDcPJv.NOq57pFXUXxAllgNQ4__RsyvJY_olKLM0RP8EBvE0Xu0eekm_9YSpb0MuAKeTIfpafM</consumerKey>
+    <consumerSecret>BJh1GVA7JGUoYncE2m3dznUle4TLxXgO</consumerSecret>
+    <defaultScopes>refresh_token full</defaultScopes>
+    <friendlyName>MyAuthProvider</friendlyName>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <providerType>Salesforce</providerType>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+</AuthProvider>

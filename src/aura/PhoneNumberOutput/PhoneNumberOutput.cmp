@@ -1,0 +1,7 @@
+<!-- PhoneNumberOutput -->
+<aura:component >       
+    <aura:attribute name="number" type="String" default="NO Phone Number" />
+    <aura:handler event="c:PhoneNumberEvent" action="{!c.show}" />
+    <ui:outputText aura:id="number" value="{!v.number}"/>
+    <!--{!v.number} -->
+</aura:component>

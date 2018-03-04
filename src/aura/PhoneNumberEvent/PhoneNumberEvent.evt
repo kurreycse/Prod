@@ -1,0 +1,4 @@
+<!-- PhoneNumberEvent.evt -->
+<aura:event type="APPLICATION" >
+    <aura:attribute name="phone" type="String" />
+</aura:event>
